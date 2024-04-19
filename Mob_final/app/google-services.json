@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647512966380",
+    "project_id": "finale-664be",
+    "storage_bucket": "finale-664be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647512966380:android:d75f3d3dea17e4bf7b11c9",
+        "android_client_info": {
+          "package_name": "com.example.finale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXK3WWZ7lWphE1PaBthDttn55mnX8cNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647512966380:android:1cc954700df9ba207b11c9",
+        "android_client_info": {
+          "package_name": "com.example.mob_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXK3WWZ7lWphE1PaBthDttn55mnX8cNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
